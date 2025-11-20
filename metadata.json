@@ -1,0 +1,5 @@
+{
+  "name": "Imperial Cabinet - The Six Ministries",
+  "description": "An interactive role-playing application where you act as the Emperor of China, consulting with AI-powered Ministers of the Six Boards (Personnel, Revenue, Rites, War, Justice, Works). Each minister has a distinct personality and memory context.",
+  "requestFramePermissions": []
+}
