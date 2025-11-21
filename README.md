@@ -69,7 +69,7 @@ Click the **Settings (Gear Icon)** in the top right to open the **Secret Edict**
 *   **Configuration Editor**:
     1.  Enter a Model ID (e.g., `deepseek-chat`).
     2.  Enter a Base URL (if using non-Google models).
-    3.  Give it a **Name** and click **"Add Current Config to Library"** to save it for later.
+    3.  Give it a **名字** and click **"Add Current Config to Library"** to save it for later.
 
 ---
 
@@ -99,7 +99,7 @@ Open `src/constants.tsx` and edit `AI_PRESETS`. These are the hardcoded defaults
 <a id="chinese-readme"></a>
 # 🏯 大清内阁 (Imperial Cabinet)
 
-> **🟢 在线试玩 (无需安装)**: [https://naoziyoupao.github.io/imperial-cabinet---the-six-ministries/](https://naoziyoupao.github.io/imperial-cabinet---the-six-ministries/)
+> **🟢 在线试玩 (无需安装)**: [https://naoziyoupao.github.io/imperial-cabinet---the-six-ministries/](https://naoziyoupao.github.io/imperial-cabinet---the-six-ministries/)第一次进去，如果没有gemini账号，可以先随便输点东西进上方框框，然后选择一个尚书，右上角设置可以添加其他ai的api。
 
 这是一个基于 **React 19**、**TypeScript** 和 **Vite** 构建的沉浸式 AI 角色扮演应用。您将扮演皇帝，与大清六部（吏、户、礼、兵、刑、工）尚书进行廷议。应用拥有独特的中国古风 UI，并支持多种 AI 模型（Google Gemini, DeepSeek, OpenAI）。
 
